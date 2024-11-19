@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![WhatsApp Image 2024-11-19 at 13 40 51_7c15dc93](https://github.com/user-attachments/assets/71b2a185-18a5-4bf0-be6e-a148aff9045b)
+
 
 
 
@@ -66,7 +67,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![WhatsApp Image 2024-11-19 at 13 40 51_a4be1d02](https://github.com/user-attachments/assets/b397c826-9d23-46a3-9334-579374e3f9cb)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +81,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![WhatsApp Image 2024-11-19 at 13 40 50_3a49df60](https://github.com/user-attachments/assets/61f9b27f-6680-476a-8dd7-446e254bbc37)
+
 
 
  
@@ -101,7 +104,8 @@ For Transient Analysis Settings and Output
  
  ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+![WhatsApp Image 2024-11-19 at 13 45 11_5491487e](https://github.com/user-attachments/assets/85436140-e2c9-41bc-a07a-efbf3250d003)
+
 
 
 Results:
